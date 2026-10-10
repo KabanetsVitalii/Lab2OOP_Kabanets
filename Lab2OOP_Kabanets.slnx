@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Lab2OOP_Kabanets/Lab2OOP_Kabanets.vcxproj" />
+  <Project Path="Lab2OOP_Kabanets/Lab2OOP_Kabanets.vcxproj" Id="65afbff7-2664-4ac3-b96d-95705269c159" />
 </Solution>
